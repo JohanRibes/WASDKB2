@@ -1,7 +1,9 @@
 # WASDKB2
 Un layout FR pour le WASD Keyboard 2 (88K iso) sous Mac OSX, avec support des accents graves, circonflexes, aigus, etc..
-Je me suis arrété à la configuration des caractères spéciaux sur le alt-GR, le reste est le réglage MAC résiduel.
-
+Sont configurés:
+- Les touches classiques.
+- Les touches une fois SHIFT enfoncé.
+- Les touches une fois ALTGr enfoncé.
 
 ![alt tag](https://raw.githubusercontent.com/JohanRibes/WASDKB2/master/Layout.png)
 
